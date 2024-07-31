@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <title>dhiya</title>
+
+
+</head>
+<link rel="stylesheet" href="navbar with link.css">
+
+<body>
+    <div class="container">
+
+        <a href="http://127.0.0.1:5500/home.html">HOME |</a>
+        <a href="http://127.0.0.1:5500/form.html">CONTACT </a>
+        <a href="http://127.0.0.1:5500/flower.html">FLOWER GALLERY </a>
+        <a href="navbar with card.html">CARD </a>
+        <a href="grid.html">GRID</a>
+        <a href="game.html">GAME </a>
+
+    </div>
+    <div class="hole">
+    
+       <div class="pic" >
+       
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpXswb932OXJ4OI2GqdUVDWdhC0xZ-WRFkw&s"><br><br>
+        <button>like it</button>
+        <h1> SHREE HARINI S </h1>
+        <i>B.TECH computer science and business systems</i><br>
+        <input type="button" value="COLLEGE">
+      
+       </div>
+       <div class="fill">
+      
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYFXx4hGPuOOxDo35P62aKDDvmMcYG1FJdmgi6vuaGNVa-4-eBcgVYiTQhyxsUlDP6M8&usqp=CAU"><br><br>
+        <button>like it</button>
+        <h1>REENA S </h1>
+        <i>B.TECH computer science and business systems</i><br>
+        <input type="button" value="COLLEGE">
+       </div>
+   
+       <div class="tea">
+    
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObxc_JbHX12yWcaaozr_bjb_CfYYo-Z66xPlX9QyuHqOWt-4VIdCCsD0cUprBLycqFCo&usqp=CAU"><br><br>
+        <button>like it</button>
+        <h1>MONIKA S </h1>
+        <i>B.TECH computer science and business systems</i><br>
+        <input type="button" value="COLLEGE">
+      
+       </div>
+    
+       </div>
+
+</body>
+
+</html>

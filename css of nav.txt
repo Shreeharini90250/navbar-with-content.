@@ -1,0 +1,101 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+  color: white;
+}
+a{
+    color: white;
+}
+.pic {
+  text-align: center;
+  width: 300px;
+  border: 1px solid black;
+  margin: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px;
+}
+.pic img{
+  width: 100%;
+ border-radius: 10px;
+}
+h1:hover{
+  color: palevioletred;
+}
+.fill {
+  text-align: center;
+  width: 300px;
+  border: 1px solid black;
+  margin: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px;
+}
+.fill img{
+  width: 100%;
+ border-radius: 10px;
+}
+input:hover{
+  color: palevioletred;}
+h1:hover{
+  color: palevioletred;
+}
+.tea {
+  text-align: center;
+  width: 300px;
+  border: 1px solid black;
+  margin: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px;
+}
+.tea img{
+  width: 100%;
+ border-radius: 10px;
+}
+input:hover{
+  color: palevioletred;}
+h1:hover{
+  color: palevioletred;
+}
+.hole{
+  display: flex;
+  justify-content: space-evenly;
+  border:2px;
+}
+input:hover{
+  color: palevioletred;
+}
+  .grid-container{
+    display: grid;
+   grid-template-columns: 1fr 4fr ;
+   grid-template-rows: auto 1fr auto;
+   
+   
+  
+
+  }
+  header{
+    grid-column: 1/span 5;
+  }
+  aside{
+    grid-row: 2/span 2;
+    background-color: aquamarine;
+  }
+  .grid {
+    text-align: center;
+    background-color: black;
+    color: cyan;
+
+  }
+  .grid-contain{
+    color: aqua;
+    background-color: black;
+    width: 250px;
+    display: grid;
+  }
+ 
